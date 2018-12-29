@@ -1,2 +1,9 @@
+# Scala
 *.class
 *.log
+
+
+# Python
+.ipynb_checkpoints
+.python-version
+__pycache__/

@@ -1,0 +1,9 @@
+Member	Instrument
+Charles,Mingus	bass, piano
+John,Handy	alto sax
+Booker,Ervin	tenor sax
+Shafi,Hadi	tenor sax
+Willie,Dennis	trombone
+Jimmy,Knepper	trombone
+Horace,Parlan	piano
+Dannie,Richmond	drums

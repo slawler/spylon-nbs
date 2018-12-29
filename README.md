@@ -1,2 +1,3 @@
-# spylon
-Scala and Spark using the spylon-kernel 
+# spylon-nbs
+
+Notebooks for learning Scala and Spark using the spylon-kernel 
